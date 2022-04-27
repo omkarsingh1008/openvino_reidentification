@@ -1,4 +1,4 @@
-# Multi Camera Multi Target Python\* Demo
+# Multi Camera Multi Target Python Demo
 
 ### Installation of Dependencies
 
@@ -88,4 +88,8 @@ python multi_camera_multi_target_tracking_demo.py \
     --m_reid <path_to_model>/person-reidentification-retail-0277.xml \
     --config configs/person.py
 ```
+
+
+
+https://user-images.githubusercontent.com/48081267/165577946-5eb0c931-6c2c-4371-9af0-0f292c609deb.mp4
 
