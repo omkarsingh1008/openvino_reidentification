@@ -72,6 +72,10 @@ python multi_camera_multi_target_tracking_demo.py \
 
 # videos with instance segmentation model
 python multi_camera_multi_target_tracking_demo.py \
+
+https://user-images.githubusercontent.com/48081267/165576266-8d45287b-1456-4d89-bc16-fdc3390fee6f.mp4
+
+
     -i <path_to_video>/video_1.avi <path_to_video>/video_2.avi \
     --m_segmentation <path_to_model>/instance-segmentation-security-0228.xml \
     --m_reid <path_to_model>/person-reidentification-retail-0277.xml \
