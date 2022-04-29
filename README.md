@@ -1,4 +1,4 @@
-# Multi Camera Multi Target Python Demo
+# Multi Camera Multi Target Python reidentification
 
 ### Installation of Dependencies
 
